@@ -485,6 +485,10 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - ⚙️ [Business card maker](https://www.shopify.com/tools/business-card-maker).
 
+- ⚙️ [Bulk Price Editor by MITS](https://apps.shopify.com/bpe-by-mits).
+
+- ⚙️ [Pop Up Discount by MITS](https://apps.shopify.com/amax-popups-banners).
+
 - ⚙️ [Gift certificate template](https://www.shopify.com/tools/gift-certificate-template).
 
 - ⚙️ [Invoice generator](https://www.shopify.com/pos/invoice-generator).
